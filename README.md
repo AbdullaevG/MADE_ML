@@ -1,9 +1,9 @@
 
 ### Machine Learning Course from MADE
 
-1. [hw_01 KNN from scratch (NumPy)](/howeworks_basic/hw_01_knn)
-2. [hw_02 Linear Regression from scratch (NumPy)](/howeworks_basic/hw_02_lin_reg)
-3. [hw_02 Kernel SVM from scratch (PyTorch)](/howeworks_basic/hw_03_SVM)
+1. [hw_01 KNN from scratch (NumPy)](./howeworks_basic/hw_01_knn)
+2. [hw_02 Linear Regression from scratch (NumPy)](./howeworks_basic/hw_02_lin_reg)
+3. [hw_02 Kernel SVM from scratch (PyTorch)](./howeworks_basic/hw_03_SVM)
 
 
 
